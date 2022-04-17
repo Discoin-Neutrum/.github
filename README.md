@@ -7,5 +7,6 @@ Discoin is a Discord crypto currency based on a bot.
 
 ## Developpers
 > martix#3634
+
 > MrNeutron#9654
 
