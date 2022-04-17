@@ -1,6 +1,6 @@
 # Discoin-Neutrum
 
-Discoin is a Discord crypto currency based on a bot.
+_Discoin is a Discord crypto currency based on a bot._
 
 ### Owner 🧭
 MrNeutron#9654
