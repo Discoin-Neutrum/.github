@@ -2,7 +2,7 @@
 
 _Discoin is a cryptocurrency (DSC), specialized on discord through a bot._
 
-_The project was launched in 2020 by Mr. Neutron_
+_The project was launched in 2019 by Mr. Neutron_
 
 ### 🌱 The Purpose of Discoin 
 
