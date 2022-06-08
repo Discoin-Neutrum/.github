@@ -4,7 +4,7 @@ _Discoin is a cryptocurrency (DSC), specialized on discord through a bot._
 
 _The project was launched in 2020 by Mr. Neutron_
 
-### The Purpose of Discoin 
+### 🌱 The Purpose of Discoin 
 
 Discoin is created to improve monetary exchange between Discord users. This facilitates payments between users directly on Discord without going through other sites/applications.
 Promotion and Valuation of Discord. Thanks to Discoin, the Discord application becomes a world in its own right with its own economy.
